@@ -1,4 +1,4 @@
-### It's me! Tomtom! 
+## It's me! Tomtom! 
 
 Olá eu sou o Bruno mas pode me chamar de Tomtom :)
 
@@ -6,9 +6,9 @@ Sou um profissional experiente em diferentes campos, em transição de carreira 
 Busco uma oportunidade de me desenvolver na área aplicando os conhecimentos adquiridos e adicionando novos.
 Sou calmo e analítico, mas com senso de urgência. Comprometido e auto-motivado com metas e objetivos a serem alcançados.
 
-https://www.linkedin.com/in/brunotomtomoliveira/
-
-Tecnologias que uso atualmente:
+https://www.linkedin.com/in/brunotomtomoliveira/  
+  
+### Tecnologias que uso atualmente:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,9 +27,27 @@ Tecnologias que uso atualmente:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-O que quero aprender:
+### O que quero aprender:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Projetos Realizados:
+
+#### Gerenciador de Cobranças
+
+![Banner](Banner_Gerenciador_de_cobrancas.png)
+O gerenciador de cobranças foi o desafio final (módulo 5) do curso de desenvolvimento de software da Cubos Academy. Foi realizado em equipe de 4 pessoas, 2 no front-end e 2 no back-end. Minha participação foi como front-end onde desenvolvi a página de cadastro e seus componentes, página de detalhe dos clientes, função de 
+O aplicativo web foi feito em React e Node com as seguintes
+   features:
+   
+ - Cadastro de Usuário;
+ - Login com autenticação;
+ - Página home com resumo geral das cobranças;
+ - Edição de dados do usuário;
+ - Cadastro e edição de dados de clientes;
+ - Cadastro, edição e exclusão de cobranças.
+
+**Links:**  [Repo Github](https://github.com/Brunotomtom/Cubos_desafio_front_modulo_5)  |  [Deploy na Heroku](https://cobrancaapp.netlify.app/)  |  [Youtube video](https://youtu.be/2zWkbyazXds)
