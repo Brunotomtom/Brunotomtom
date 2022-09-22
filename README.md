@@ -39,7 +39,7 @@ https://www.linkedin.com/in/brunotomtomoliveira/
 #### Gerenciador de Cobranças
 
 ![Banner](Banner_Gerenciador_de_cobrancas.png)
-O gerenciador de cobranças foi o desafio final (módulo 5) do curso de desenvolvimento de software da Cubos Academy. Foi realizado em equipe de 4 pessoas, 2 no front-end e 2 no back-end. Minha participação foi como front-end onde desenvolvi a página de cadastro e seus componentes, página de detalhe dos clientes, função de 
+O gerenciador de cobranças foi o desafio final (módulo 5) do curso de desenvolvimento de software da Cubos Academy. Foi realizado em equipe de 4 pessoas, 2 no front-end e 2 no back-end. Minha participação foi como front-end onde desenvolvi a página de cadastro e seus componentes, página de detalhe dos clientes, edição de dados dos clientes, edição de cobranças, exlusão de cobranças etc.
 O aplicativo web foi feito em React e Node com as seguintes
    features:
    
@@ -49,5 +49,7 @@ O aplicativo web foi feito em React e Node com as seguintes
  - Edição de dados do usuário;
  - Cadastro e edição de dados de clientes;
  - Cadastro, edição e exclusão de cobranças.
+
+**Aprendizados:** Foi muito bom o trabalho de equipe onde dividimos as tarefas usando **metodologia ágil** usando o Trello. Foi importante treinar a **leitura de código** aprendendo e interagindo com o outro desenvolvedor front-end e com os dois back-end. Também, a consulta e pesquisa na **documentação técnica** para resolver bugs ou implementar novas features usando o **material-ui**(MUI).
 
 **Links:**  [Repo Github](https://github.com/Brunotomtom/Cubos_desafio_front_modulo_5)  |  [Deploy na Heroku](https://cobrancaapp.netlify.app/)  |  [Youtube video](https://youtu.be/2zWkbyazXds)
